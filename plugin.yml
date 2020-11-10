@@ -1,0 +1,9 @@
+name: Clear
+main: MulkiAqi192\Clear\Main
+author: MulkiAqi192
+api: 3.12.0
+version: 1.0
+
+commands:
+  clear:
+    description: "Clear your Inventory/Armour/Effects"
